@@ -2,7 +2,7 @@
 
 Este repositório mostra como estruturar uma landing page no estilo do exemplo enviado, usando apenas HTML e CSS.
 
-## Como rodar localmente
+## Como rodar localmente (preview)
 
 1. Inicie um servidor estático na raiz do projeto:
 
@@ -11,6 +11,8 @@ python -m http.server 8000
 ```
 
 2. Acesse `http://localhost:8000` no navegador.
+
+> Se a prévia não aparecer ao abrir o arquivo diretamente, use um servidor local (como acima) ou a extensão **Live Server** no VS Code para evitar bloqueios de assets e fontes remotas.
 
 ## Como construir algo semelhante
 
